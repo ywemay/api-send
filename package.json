@@ -1,5 +1,5 @@
 {
-  "name": "@ywemay/api-send",
+  "name": "ywemay-api-send",
   "version": "1.0.0",
   "description": "API Send",
   "main": "index.js",
