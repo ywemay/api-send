@@ -1,0 +1,22 @@
+{
+  "name": "@ywemay/api-send",
+  "version": "1.0.0",
+  "description": "API Send",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywemay/api-send.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Cibuc Dorian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ywemay/api-send/issues"
+  },
+  "homepage": "https://github.com/ywemay/api-send#readme"
+}
