@@ -1,6 +1,6 @@
 {
   "name": "ywemay-api-send",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API Send",
   "main": "index.js",
   "scripts": {
